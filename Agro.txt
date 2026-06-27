@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>O Agro no Brasil</title>
+</head>
+<body>
+
+    <h1>O Agro no Brasil</h1>
+
+    <p>O agronegócio é um dos setores mais importantes da economia brasileira. Ele produz alimentos, gera empregos e contribui para o desenvolvimento do país.</p>
+
+    <h2>Importância do Agro</h2>
+
+    <ul>
+        <li>Produção de alimentos.</li>
+        <li>Geração de empregos.</li>
+        <li>Exportação para diversos países.</li>
+    </ul>
+
+    <h2>Conclusão</h2>
+
+    <p>O agro é essencial para alimentar a população e fortalecer a economia do Brasil. É importante que essa produção aconteça de forma sustentável.</p>
+
+</body>
+</html>
